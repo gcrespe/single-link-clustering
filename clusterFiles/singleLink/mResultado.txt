@@ -1,0 +1,5 @@
+Indice Rand -  m1 = 0.0
+Indice Rand -  m2 = 1.0
+Indice Rand -  m3 = 0.483
+Indice Rand -  m4 = 0.308
+Indice Rand -  m5 = 0.266
